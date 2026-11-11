@@ -1,0 +1,9 @@
+<?php
+declare(strict_types=1);
+const BOT_TOKEN = '8809114401:AAE5nK1htav6TplJB7H9rJdVtsRXIV8YCUs';
+const OWNER_ID =7351854399;
+const POLL_TIMEOUT = 25;
+const REQUEST_TIMEOUT = 40;
+const DB_FILE = __DIR__ . '/data.json';
+// OWNER SETS A CUSTOM POSITIVE TARGET FOR EACH EXCHANGE.
+const MAX_TARGET = PHP_INT_MAX;
